@@ -1,2 +1,2 @@
 # learn-gha
-Learning Gothub Actions
+Learning Github Actions
