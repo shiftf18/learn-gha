@@ -1,2 +1,1 @@
-# learn-gha
-Learning Github Actions
+# Github Actions Repo
